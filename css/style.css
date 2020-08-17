@@ -1,0 +1,25 @@
+.first li{
+	display: inline-block ;
+	padding-right: 50px ;
+	border: double 10px white ;
+	margin-left: 100px ; 
+	margin-right: 100px  ; }
+.first li h1{
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;}
+a{ 
+	text-decoration: none ;}
+body{
+	background-color: #000000;}
+#home, #about, #contact{ 
+	color: white ;
+	border: groove 5px white ;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{ 
+	border: dotted 5px white ;
+	margin-left: 300px ;}
+
+
+
+
